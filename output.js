@@ -1,4 +1,4 @@
-//Sat Oct 26 2024 05:18:53 GMT+0000 (Coordinated Universal Time)
+//Thu Oct 31 2024 11:07:23 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const $ = new Env("移动心愿金"),
