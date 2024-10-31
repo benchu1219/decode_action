@@ -31,6 +31,7 @@ jobs:
         ls
         git add output.js
         git add output.py
+        
         git commit -m "Add decoded output file"
         git push
         
